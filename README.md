@@ -1,0 +1,10 @@
+# [Projektowanie Obiektowe Zadanie 6](https://github.com/j-markiewicz/projektowanie-obiektowe)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=j-markiewicz_projob6-client&metric=bugs)](https://sonarcloud.io/summary/new_code?id=j-markiewicz_projob6-client)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=j-markiewicz_projob6-client&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=j-markiewicz_projob6-client)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=j-markiewicz_projob6-client&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=j-markiewicz_projob6-client)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=j-markiewicz_projob6-client&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=j-markiewicz_projob6-client)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=j-markiewicz_projob6-client&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=j-markiewicz_projob6-client)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=j-markiewicz_projob6-client&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=j-markiewicz_projob6-client)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=j-markiewicz_projob6-client&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=j-markiewicz_projob6-client)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=j-markiewicz_projob6-client&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=j-markiewicz_projob6-client)
